@@ -8,7 +8,7 @@ This repository contains several examples of client-server implementations using
 </p>
 
 
-`
+
 ├── LICENSE
 ├── multi_thread_tcp_client_server
 │   ├── client.py
@@ -21,7 +21,7 @@ This repository contains several examples of client-server implementations using
 │   └── server.py
 └── udp_client_server
     ├── client.py
-    └── server.py`
+    └── server.py
 
 ###  Simplest TCP Client-Server (simplest_tcp_client_server)
 A basic example of a TCP client and server where the client sends a message, and the server echoes it back.
