@@ -4,7 +4,7 @@ This repository contains several examples of client-server implementations using
 
 
 <p align="center">
-  <img src="https://github.com/razisamuely/server_client_naya_college/blob/main/artifacts/server_client_gif.gif?raw=true" width="200" />
+  <img src="https://github.com/razisamuely/server_client_naya_college/blob/main/artifacts/server_client_gif.gif?raw=true" width="500" />
 </p>
 
 
